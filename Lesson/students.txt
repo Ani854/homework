@@ -1,0 +1,4 @@
+Anna,Aramyan,1999,f,88.6
+Anahit,Mesropyan,2000,f,50.0
+Armen,Melqumyan,1976,m,76.7
+Artur,Babayan,2001,m,60.5
